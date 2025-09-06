@@ -4,3 +4,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 ## LeetCode Important Intuitions
 ### Arrays
 1. [LeetCode 238: Product of Array Except Self (Intuition)](./arrays/medium/0238_product_except_self_prefix_suffix.cpp)
+2. [LeetCode 283: Move Zeroes (Intuition)](./arrays/easy/0283_move_zeroes.cpp)
