@@ -4,5 +4,5 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 ## LeetCode Important Intuitions
 ### Arrays
 1. [LeetCode 238: Product of Array Except Self (Intuition)](./arrays/medium/0238_product_except_self_prefix_suffix.cpp)- 'Prefix Sum'
-2. [LeetCode 283: Move Zeroes (Intuition)](./arrays/easy/0283_move_zeroes.cpp)- Two Pointers'
+2. [LeetCode 283: Move Zeroes (Intuition)](./arrays/easy/0283_move_zeroes.cpp)- 'Two Pointers'
 3. [LeetCode 121: Best Time to Buy and Sell Stock (Intuition)](./arrays/easy/0121_best_time_to_buy_and_sell_stock.cpp)- 'Dynamic Programming'
