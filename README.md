@@ -7,3 +7,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 2. [LeetCode 283: Move Zeroes (Intuition)](./arrays/easy/0283_move_zeroes.cpp)- 'Two Pointers'
 3. [LeetCode 121: Best Time to Buy and Sell Stock (Intuition)](./arrays/easy/0121_best_time_to_buy_and_sell_stock.cpp)- 'Dynamic Programming'
 4. [LeetCode 31: Next Permutation (Intuition)](./arrays/medium/0031_next_permutation.cpp)- 'Two Pointers'
+5. [LeetCode 1: Two Sum (Intuition)](./arrays/easy/0001_two_sum.cpp)- 'Hash Table'
