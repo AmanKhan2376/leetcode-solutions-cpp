@@ -9,3 +9,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 4. [LeetCode 31: Next Permutation (Intuition)](./arrays/medium/0031_next_permutation.cpp)- 'Two Pointers'
 5. [LeetCode 1: Two Sum (Intuition)](./arrays/easy/0001_two_sum.cpp)- 'Hash Table'
 6. [LeetCode 11: Container With Most Water (Intuition)](./arrays/medium/0011_container_with_most_water.cpp)- 'Two Pointers'
+7. [LeetCode 75: Sort Colors (Intuition)](./arrays/medium/0075_sort_colors.cpp)- 'Two Pointers', 'Sorting'
