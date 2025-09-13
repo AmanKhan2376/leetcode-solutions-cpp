@@ -11,3 +11,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 6. [LeetCode 11: Container With Most Water (Intuition)](./arrays/medium/0011_container_with_most_water.cpp)- 'Two Pointers'
 7. [LeetCode 75: Sort Colors (Intuition)](./arrays/medium/0075_sort_colors.cpp)- 'Two Pointers', 'Sorting'
 8. [LeetCode 209: Minimum Size Subarray Sum (Intuition)](./arrays/medium/0209_minimum_size_subarray_sum.cpp)- 'Sliding Window', 'Prefix Sum'
+9. [LeetCode 88: Merge Sorted Array (Intuition)](./arrays/easy/0088_merge_sorted_array.cpp)- 'Two Pointers' 'Sorting'
