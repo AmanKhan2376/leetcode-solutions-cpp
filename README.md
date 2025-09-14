@@ -16,3 +16,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 ### Strings
 1. [LeetCode 344: Reverse String (Intuition)](./strings/easy/0344_reverse_string.cpp)- 'Two Pointers'
 2. [LeetCode 438: Find all Anagrams in a String (Intuition)](./strings/medium/0438_find_all_anagrams_in_a_string.cpp)- 'Sliding Window', 'Frequency Counting'
+3. [LeetCode 76: Minimum Window Substring (Intuition)](./strings/hard/0076_minimum_window_substring.cpp)- 'Sliding Window', 'Frequency Counting'
