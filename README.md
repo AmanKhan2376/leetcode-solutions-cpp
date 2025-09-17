@@ -3,17 +3,18 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 
 ## LeetCode Important Intuitions
 ### Arrays
-1. [LeetCode 238: Product of Array Except Self (Intuition)](./arrays/medium/0238_product_except_self_prefix_suffix.cpp)- 'Prefix Sum'
-2. [LeetCode 283: Move Zeroes (Intuition)](./arrays/easy/0283_move_zeroes.cpp)- 'Two Pointers'
-3. [LeetCode 121: Best Time to Buy and Sell Stock (Intuition)](./arrays/easy/0121_best_time_to_buy_and_sell_stock.cpp)- 'Dynamic Programming'
-4. [LeetCode 31: Next Permutation (Intuition)](./arrays/medium/0031_next_permutation.cpp)- 'Two Pointers'
-5. [LeetCode 1: Two Sum (Intuition)](./arrays/easy/0001_two_sum.cpp)- 'Hash Table'
-6. [LeetCode 11: Container With Most Water (Intuition)](./arrays/medium/0011_container_with_most_water.cpp)- 'Two Pointers'
-7. [LeetCode 75: Sort Colors (Intuition)](./arrays/medium/0075_sort_colors.cpp)- 'Two Pointers', 'Sorting'
-8. [LeetCode 209: Minimum Size Subarray Sum (Intuition)](./arrays/medium/0209_minimum_size_subarray_sum.cpp)- 'Sliding Window', 'Prefix Sum'
-9. [LeetCode 88: Merge Sorted Array (Intuition)](./arrays/easy/0088_merge_sorted_array.cpp)- 'Two Pointers', 'Sorting'
+1. [LeetCode 238: Product of Array Except Self](./arrays/medium/0238_product_except_self_prefix_suffix.cpp)- 'Prefix Sum'
+2. [LeetCode 283: Move Zeroes](./arrays/easy/0283_move_zeroes.cpp)- 'Two Pointers'
+3. [LeetCode 121: Best Time to Buy and Sell Stock](./arrays/easy/0121_best_time_to_buy_and_sell_stock.cpp)- 'Dynamic Programming'
+4. [LeetCode 31: Next Permutation](./arrays/medium/0031_next_permutation.cpp)- 'Two Pointers'
+5. [LeetCode 1: Two Sum](./arrays/easy/0001_two_sum.cpp)- 'Hash Table'
+6. [LeetCode 11: Container With Most Water](./arrays/medium/0011_container_with_most_water.cpp)- 'Two Pointers'
+7. [LeetCode 75: Sort Colors](./arrays/medium/0075_sort_colors.cpp)- 'Two Pointers', 'Sorting'
+8. [LeetCode 209: Minimum Size Subarray Sum](./arrays/medium/0209_minimum_size_subarray_sum.cpp)- 'Sliding Window', 'Prefix Sum'
+9. [LeetCode 88: Merge Sorted Array](./arrays/easy/0088_merge_sorted_array.cpp)- 'Two Pointers', 'Sorting'
 
 ### Strings
-1. [LeetCode 344: Reverse String (Intuition)](./strings/easy/0344_reverse_string.cpp)- 'Two Pointers'
-2. [LeetCode 438: Find all Anagrams in a String (Intuition)](./strings/medium/0438_find_all_anagrams_in_a_string.cpp)- 'Sliding Window', 'Frequency Counting'
-3. [LeetCode 76: Minimum Window Substring (Intuition)](./strings/hard/0076_minimum_window_substring.cpp)- 'Sliding Window', 'Frequency Counting'
+1. [LeetCode 344: Reverse String](./strings/easy/0344_reverse_string.cpp)- 'Two Pointers'
+2. [LeetCode 438: Find all Anagrams in a String](./strings/medium/0438_find_all_anagrams_in_a_string.cpp)- 'Sliding Window', 'Frequency Counting'
+3. [LeetCode 76: Minimum Window Substring](./strings/hard/0076_minimum_window_substring.cpp)- 'Sliding Window', 'Frequency Counting'
+4. [LeetCode 424: Longest Repeating Charachter Replacement](./strings/medium/0424_longest_repeating_character_replacement.cpp)- 'Sliding Window', 'Hash Table'
