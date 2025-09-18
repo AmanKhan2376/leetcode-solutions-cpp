@@ -19,3 +19,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 3. [LeetCode 76: Minimum Window Substring](./strings/hard/0076_minimum_window_substring.cpp)- 'Sliding Window', 'Frequency Counting'
 4. [LeetCode 424: Longest Repeating Charachter Replacement](./strings/medium/0424_longest_repeating_character_replacement.cpp)- 'Sliding Window', 'Hash Table'
 5. [LeetCode 49: Group Anagrams](./strings/medium/0049_group_anagrams.cpp)- 'Hash Table', 'Sorting'
+6. [LeetCode 13: Roman to Integer](./strings/easy/0013_roman_to_integer.cpp)- 'Hash Table', 'Math'
