@@ -18,3 +18,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 2. [LeetCode 438: Find all Anagrams in a String](./strings/medium/0438_find_all_anagrams_in_a_string.cpp)- 'Sliding Window', 'Frequency Counting'
 3. [LeetCode 76: Minimum Window Substring](./strings/hard/0076_minimum_window_substring.cpp)- 'Sliding Window', 'Frequency Counting'
 4. [LeetCode 424: Longest Repeating Charachter Replacement](./strings/medium/0424_longest_repeating_character_replacement.cpp)- 'Sliding Window', 'Hash Table'
+5. [LeetCode 49: Group Anagrams](./strings/medium/0049_group_anagrams.cpp)- 'Hash Table', 'Sorting'
