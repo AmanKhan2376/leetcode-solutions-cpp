@@ -21,3 +21,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 5. [LeetCode 49: Group Anagrams](./strings/medium/0049_group_anagrams.cpp)- 'Hash Table', 'Sorting'
 6. [LeetCode 13: Roman to Integer](./strings/easy/0013_roman_to_integer.cpp)- 'Hash Table', 'Math'
 7. [LeetCode 451: Sort Charachters By Frequence (Brute Force)](./hashmap/medium/0451_sort_characters_by_frequency_brute_force.cpp)- 'Hash Table', 'Frequency Counting'
+8. [LeetCode 1249: Minimum Remove to Make Valid Parentheses](./strings/medium/1249_minimum_remove_to_make_valid_parentheses.cpp)- 'Two Pointers'
