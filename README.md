@@ -23,3 +23,6 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 7. [LeetCode 451: Sort Charachters By Frequence (Brute Force)](./hashmap/medium/0451_sort_characters_by_frequency_brute_force.cpp)- 'Hash Table', 'Frequency Counting'
 8. [LeetCode 1249: Minimum Remove to Make Valid Parentheses](./strings/medium/1249_minimum_remove_to_make_valid_parentheses.cpp)- 'Two Pointers'
 9. [LeetCode 567: Permutation in String](./strings/medium/0567_permutation_in_string.cpp)- ''Frequency Counting', 'Sliding Window'
+
+### Searching and Sorting Algorithms
+1. [LeetCode 704: Binary Search](./binary_search/0704_binary_search.cpp)- 'Binary Search'
