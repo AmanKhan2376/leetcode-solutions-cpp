@@ -1,7 +1,7 @@
 # leetcode-solutions-cpp
 LeetCode C++ solutions with optimal approaches, categorized by topic &amp; difficulty.
 
-## LeetCode Important Intuitions
+## LeetCode Important Problems
 ### Arrays
 1. [LeetCode 238: Product of Array Except Self](./arrays/medium/0238_product_except_self_prefix_suffix.cpp)- 'Prefix Sum'
 2. [LeetCode 283: Move Zeroes](./arrays/easy/0283_move_zeroes.cpp)- 'Two Pointers'
@@ -22,3 +22,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 6. [LeetCode 13: Roman to Integer](./strings/easy/0013_roman_to_integer.cpp)- 'Hash Table', 'Math'
 7. [LeetCode 451: Sort Charachters By Frequence (Brute Force)](./hashmap/medium/0451_sort_characters_by_frequency_brute_force.cpp)- 'Hash Table', 'Frequency Counting'
 8. [LeetCode 1249: Minimum Remove to Make Valid Parentheses](./strings/medium/1249_minimum_remove_to_make_valid_parentheses.cpp)- 'Two Pointers'
+9. [LeetCode 567: Permutation in String](./strings/medium/0567_permutation_in_string.cpp)- ''Frequency Counting', 'Sliding Window'
