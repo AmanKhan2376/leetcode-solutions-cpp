@@ -26,3 +26,4 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 
 ### Searching and Sorting Algorithms
 1. [LeetCode 704: Binary Search](./binary_search/0704_binary_search.cpp)- 'Binary Search'
+2. [LeetCode 378: Kth Smallest Element in a Sorted Matrix](./binary_search/0378_kth_smallest_element_in_sorted_matrix.cpp)- 'Binary Search', 'Matrix'
