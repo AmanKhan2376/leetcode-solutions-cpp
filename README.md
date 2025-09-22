@@ -25,5 +25,6 @@ LeetCode C++ solutions with optimal approaches, categorized by topic &amp; diffi
 9. [LeetCode 567: Permutation in String](./strings/medium/0567_permutation_in_string.cpp)- ''Frequency Counting', 'Sliding Window'
 
 ### Searching and Sorting Algorithms
-1. [LeetCode 704: Binary Search](./binary_search/0704_binary_search.cpp)- 'Binary Search'
-2. [LeetCode 378: Kth Smallest Element in a Sorted Matrix](./binary_search/0378_kth_smallest_element_in_sorted_matrix.cpp)- 'Binary Search', 'Matrix'
+1. [LeetCode 704: Binary Search](./binary_search/easy/0704_binary_search.cpp)- 'Binary Search'
+2. [LeetCode 378: Kth Smallest Element in a Sorted Matrix](./binary_search/medium/0378_kth_smallest_element_in_sorted_matrix.cpp)- 'Binary Search', 'Matrix'
+3. [LeetCode 4: Median of Two Sorted Arrays](./binary_search/hard/0004_median_of_two_sorted_arrays.cpp)- 'Binary Search', 'Divide and Conquer'
